@@ -18,7 +18,7 @@ Contributions are welcome. However, due to the Source‑Available license, contr
 | **Allowed** | **Not Allowed** |
 |:-----------:|:--------------:|
 | Submitting pull requests to improve this official repository | Forking the project to publish your own version |
-| Reporting issues. If you discover a vulnerability, please contact me directly on [Discord](https://discord.com/invite/QuPszM8KNM). - do **not** create a public issue. | Modifying the project outside of PRs |
+| Reporting issues. If you discover a vulnerability, please contact me directly on [Discord](https://discord.com/invite/QuPszM8KNM) - do **not** create a public issue. | Modifying the project outside of PRs |
 | Suggesting enhancements | Reusing the source code in another project |
 | Improving documentation | Selling or commercializing the code. Make sure to read the [full license](https://github.com/Dragkob/TryDateMe/blob/main/LICENSE.md). |
 
