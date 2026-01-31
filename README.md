@@ -1,7 +1,7 @@
 
 <img width="2241" height="562" alt="TDM_Banner" src="https://github.com/user-attachments/assets/12d5fb92-291e-474b-8d24-ddede67c698a" />
 
-<p align="center">A browser extension that restores the creation and publish dates of TryHackMe rooms.</p>
+<p align="center">A browser extension that restores the creation and publish dates of TryHackMe rooms.<br>How to install <a href="">here</a>.</p>
 
 | **Features** | **Installation (Chrome/Edge/Brave/Chromium)** |
 |:------------:|:--------------------------------------------:|
