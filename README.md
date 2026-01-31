@@ -24,6 +24,35 @@ Contributions are welcome. However, due to the Source‑Available license, contr
 
 ---
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="3" style="text-align:center;">Gallery</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <!-- Image 1 -->
+        <img src="https://github.com/user-attachments/assets/e5142528-0454-4dab-8144-c7e1c1ae5d4e" alt="Gallery image 1" style="width:100%; max-width:300px;" />
+      </td>
+      <td align="center">
+        <!-- Image 2 -->
+        <img src="https://github.com/user-attachments/assets/972c2f78-97a2-4fe5-bf29-5e8accd8aaa2" alt="Gallery image 2" style="width:100%; max-width:300px;" />
+      </td>
+      <td align="center">
+        <!-- Image 3 -->
+        <img src="https://github.com/user-attachments/assets/a0506374-7b0e-461d-a35b-f2a20446540d" alt="Gallery image 3" style="width:100%; max-width:300px;" />
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+
+---
+
+
 If you find TryDateMe useful:
 - Star the repository ⭐
 - Share the project with others
