@@ -1,27 +1,59 @@
 ## How to Install (All Browsers)
 
-### Google Chrome / Brave / Edge / Opera
-1. Download or clone this repository
-2. Extract the files (if ZIP)
-3. Open:
-   - Chrome / Brave / Opera → `chrome://extensions`
-   - Edge → `edge://extensions`
-4. Enable **Developer Mode**
-5. Click **Load unpacked**
-6. Select the `TryDateMe` folder (must contain `manifest.json`)
+<table>
+  <thead>
+    <tr>
+      <th>Browser</th>
+      <th>Steps</th>
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Google Chrome / Brave / Edge / Opera</td>
+   <td>
+        <ol>
+          <li>Download or clone this repository</li>
+          <li>Extract the files (if ZIP)</li>
+          <li>
+            Open:
+            <ul>
+              <li>Chrome / Brave / Opera → <code>chrome://extensions</code></li>
+              <li>Edge → <code>edge://extensions</code></li>
+            </ul>
+          </li>
+          <li>Enable <strong>Developer Mode</strong></li>
+          <li>Click <strong>Load unpacked</strong></li>
+          <li>Select the TryDateMe folder (must contain <code>manifest.json</code>)</li>
+        </ol>
+      </td>
+      <td style="width: 45%; min-width: 320px;">
+          <video src="https://github-production-user-asset-6210df.s3.amazonaws.com/141576033/543144019-8d8e950a-2bc2-4918-ae4d-f9ddaad4a3cb.mp4"></video>
+      </td>
+    </tr>
+     <tr>
+        <td>Mozilla Firefox (Coming soon...)</td>
+        <td>
+           <ol>
+              <li>Download or clone this repository</li>
+              <li>Extract the files (if ZIP)</li>
+              <li>Open `about:debugging#/runtime/this-firefox`</li>
+              <li>Click **Load Temporary Add-on**</li>
+              <li>Select `manifest.json` inside the `TryDateMe` folder</li>
+           </ol>
+           ⚠️ Firefox temporary add-ons reset on browser restart.
+        </td>
+        <td>Coming soon...</td>
+     </tr>
+  </tbody>
+</table>
+
 
 ---
 
-### Mozilla Firefox
-1. Download or clone this repository
-2. Extract the files (if ZIP)
-3. Open `about:debugging#/runtime/this-firefox`
-4. Click **Load Temporary Add-on**
-5. Select `manifest.json` inside the `TryDateMe` folder
 
-⚠️ Firefox temporary add-ons reset on browser restart.
 
----
+
 
 ### Notes
 - Manual installation requires Developer Mode
