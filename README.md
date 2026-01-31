@@ -1,6 +1,12 @@
 
 <img width="2241" height="562" alt="TDM_Banner" src="https://github.com/user-attachments/assets/12d5fb92-291e-474b-8d24-ddede67c698a" />
 
+---
+
+⚠️ - <b>This project has been discontinued</b> out of respect for TryHackMe’s ToS. Although TryDateMe did not scrape data, inject content, modify the website, or perform automated navigation, it relied on a browser extension script to read site data already delivered to the browser. Under TryHackMe’s ToS, any programmatic access to site data is not permitted, even when user-initiated and read-only. To avoid any potential ToS conflicts for users or the platform, development has been stopped.
+
+---
+
 <p align="center">A browser extension that restores the creation and publish dates of TryHackMe rooms.<br>How to install <b><a href="https://github.com/Dragkob/TryDateMe/blob/main/INSTALLATION.md">here</a>.</b></p>
 
 | **Features** | **Installation (Chrome/Edge/Brave/Chromium)** |
